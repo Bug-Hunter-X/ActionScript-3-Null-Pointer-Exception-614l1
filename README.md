@@ -1,0 +1,2 @@
+# ActionScript 3 Null Pointer Exception
+This repository demonstrates a common error in ActionScript 3: attempting to access a member of a null object.  The `bug.as` file contains the problematic code, and `bugSolution.as` provides a corrected version.  Null pointer exceptions are a frequent source of runtime errors in ActionScript, especially when dealing with asynchronous operations or events.
